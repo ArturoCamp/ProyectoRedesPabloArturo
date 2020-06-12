@@ -1,7 +1,9 @@
 # ProyectoRedesPabloArturo2020
 Universidad de Costa Rica, Sede del Atlantico, Curso IF-5000 Redes y comunicaciones de datos I Semestre, 2020
 Primer entrega Proyecto Redes de investigación y desarrollo.
+
 Rafeal Arturo Campos Bogantes B41320
+
 Pablo Castillo Quesada B51675
 
 Para utilizar los componentes del proyecto es primordial, contar con IDE o complilador, que pueda ejecutar el lenguaje de programación JAVA, en este caso recomendamos NetBeans. Dejamos link de descarga:https://netbeans.org/downloads/8.2/rc/ .
