@@ -1,4 +1,3 @@
-# ProyectoRedesPabloArturo2020
 Universidad de Costa Rica, Sede del Atlantico, Curso IF-5000 Redes y comunicaciones de datos I Semestre, 2020
 Primer entrega Proyecto Redes de investigación y desarrollo.
 
@@ -42,6 +41,8 @@ Cliente envía archivos al servidor.
 -SQL Server Management 2015
 -java jdk8
 -sqljdbc41.jar
+
+
 
 
 
